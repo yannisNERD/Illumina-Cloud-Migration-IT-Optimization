@@ -131,3 +131,5 @@ Bénéfices opérationnels : **détection proactive des incidents**, **automatis
 La cible proposée transforme l’existant en une plateforme **sécurisée par défaut**, **observable**, **hautement disponible** et **automatisée**. Le socle réseau **(DNS/TLS, VPN, segmentation)**, la **chaîne CI/CD GitLab** + **Ansible**, la **supervision Zabbix/ELK/CloudWatch** et **la stratégie de sauvegarde & réplication** adressent directement les limites actuelles et alignent l’infrastructure sur les exigences du secteur (qualité, performance, traçabilité). Les mesures de **pare-feu + SIEM + segmentation + réplication** énumérées dans la présentation sont centrales pour atteindre ces objectifs, tout en optimisant les coûts via le modèle cloud.
 
 ---
+
+<p align="center">Ce projet a été présenté dans le cadre de la soutenance finale du Master 2 ; par conséquent, le client mentionné est fictif.</p> 
