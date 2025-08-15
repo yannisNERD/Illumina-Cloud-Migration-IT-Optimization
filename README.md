@@ -132,4 +132,4 @@ La cible proposée transforme l’existant en une plateforme **sécurisée par d
 
 ---
 
-<p align="center">Ce projet a été présenté dans le cadre de la soutenance finale du Master 2 ; par conséquent, le client mentionné est fictif.</p> 
+<p align="center">Ce projet a été présenté lors de ma soutenance finale de Master 2 ; par conséquent, le client mentionné est fictif.</p> 
