@@ -9,7 +9,6 @@
 6. [Suivi & Maintenance](#-suivi--maintenance)
 7. [Résultats & Bénéfices Attendus](#-résultats--bénéfices-attendus)
 8. [Conclusion](#-conclusion)
-9. [Structure du Dépôt](#-structure-du-dépôt)
 
 ---
 
